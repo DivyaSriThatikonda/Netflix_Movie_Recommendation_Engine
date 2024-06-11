@@ -81,19 +81,8 @@ To run the project in your Jupyter Notebook or Google Colab, follow these steps:
 - **Matplotlib**:Used for data visualization
 
  # Results
-       Year                                            Name         Estimate_Score
-4352  2002.0                  Curb Your Enthusiasm: Season 3        5.000000
-2018  2004.0                                Samurai Champloo        5.000000
-721   2003.0                              The Wire: Season 1        5.000000
-241   1995.0  Neon Genesis Evangelion: The End of Evangelion        5.000000
-871   1954.0                                   Seven Samurai        5.000000
-174   1992.0                                  Reservoir Dogs        5.000000
-2101  1994.0                          The Simpsons: Season 6        4.994354
-4114  1999.0                         The Simpsons: Bart Wars        4.972430
-2429  1979.0                      Alien: Collector's Edition        4.970744
-404   1987.0                                 Wings of Desire        4.952919
 
-Singular Value Decomposition (SVD) model is trained on the movie ratings dataset and then predicted the above ratings for movies 
+Singular Value Decomposition (SVD) model is trained on the movie ratings dataset and then predicted the ratings for movies 
 
 for user with user_id = 1 has not yet rated and recommended the top 10 movies with the highest predicted ratings to this user.
 
