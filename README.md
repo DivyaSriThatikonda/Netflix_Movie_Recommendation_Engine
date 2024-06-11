@@ -1,6 +1,6 @@
 # Netflix_Movie_Recommendation_Engine
 
-**Personalized Movie Recommendation System using Collaborative Filtering**
+**Personalized Movie Recommendation System using SVD(Singular Value Decomposition)**
 
 **Project Overview:**
 
