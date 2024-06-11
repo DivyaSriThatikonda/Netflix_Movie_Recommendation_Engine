@@ -81,7 +81,7 @@ To run the project in your Jupyter Notebook or Google Colab, follow these steps:
 - **Matplotlib**:Used for data visualization
 
  # Results
-   Year                                            Name  Estimate_Score
+       Year                                            Name         Estimate_Score
 4352  2002.0                  Curb Your Enthusiasm: Season 3        5.000000
 2018  2004.0                                Samurai Champloo        5.000000
 721   2003.0                              The Wire: Season 1        5.000000
